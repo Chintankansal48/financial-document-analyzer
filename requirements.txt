@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+PyMuPDF
+SQLAlchemy
+celery
+redis
+pytest
+python-multipart
